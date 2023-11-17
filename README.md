@@ -5,11 +5,6 @@ Picture when serialize have the same properties
 Ofc this is a Transformer model not CNN :)))
 CNN model is in the ipynb file
 
-Remember to
-```shell
-cd ml_final
-```
-
 The necessary Python packages to run the code is installed by running:
 ```shell
 pip install -r requirements.txt
